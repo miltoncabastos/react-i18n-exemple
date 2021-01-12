@@ -1,2 +1,2 @@
-# react-i18n-exemple
+# react-i18next-exemple
 Projeto simples para mostrar o uso do i18next na prática
